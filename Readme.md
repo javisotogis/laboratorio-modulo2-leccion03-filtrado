@@ -1,6 +1,6 @@
 # Netflix Peliculas
 
-Este proyecto es un análisis exploratorio de datos en el que se han juntado dos datasets en formato CSV usando pandas. El objetivo ha sido estudiar los tipos de datos que tenemos, encontrar duplicados, gestionar nulos, etc., para poder realizar posteriores análisis en el futuro.
+Este proyecto es un repaso de los conceptos de filtrado usando pandas y el dataframe de Netflix de la leccion anterior. En este repaso, se explora el filtrado por columnas, el filtrado en base a cadenas de string y el filtrado en base a multiple valores, tanto numericos como categoricos.
 
 ## Estructura de los archivos
 
